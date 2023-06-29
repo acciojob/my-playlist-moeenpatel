@@ -1,12 +1,11 @@
-/*  your css code here. If applicable */
-body{
-	background-color: #cccccc;
-	margin:3vh;
-}
-.header{
-	text-align:center;
-} 
-.player_one {
+ body {
+        background-color: #cccccc;
+        margin: 3vh;
+      }
+      .header {
+        text-align: center;
+      }
+      .player_one {
         background-color: rgb(255, 255, 255);
         border-radius: 3px;
         padding: 1vh;
